@@ -17,6 +17,7 @@ code snippet
 
 - [ ] a checklist
 - ordered and unordered lists/sublists are obvious
+
 has a footnote[^1].
 [^1]: the footnote
 <!-- this comment is invisible -->
