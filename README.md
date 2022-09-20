@@ -16,6 +16,7 @@ code snippet
 ```
 
 - [ ] a checklist
+
 - ordered and unordered lists/sublists are obvious
 
 has a footnote[^1].
